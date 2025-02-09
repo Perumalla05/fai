@@ -25,16 +25,3 @@
 - **Video Creation:** InVideo AI  
 - **Interactive Quiz:** Lumi  
 
-
-
-## 🤝 Contributions
-Contributions and suggestions are welcome to enhance the learning experience and test content.
-
----
-
-## 📜 License
-This project is open-source and available under the MIT License.
-
----
-
-Would you like to add screenshots, links to the video, or any additional content?
